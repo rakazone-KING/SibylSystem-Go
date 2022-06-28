@@ -1,3 +1,3 @@
 package SibylSystem
 
-const DefaultApiUrl = "https://gban-api-production.up.railway.app/"
+const DefaultApiUrl = "https://ekatahomeo.in/"
