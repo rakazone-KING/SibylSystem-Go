@@ -1,3 +1,3 @@
 package SibylSystem
 
-const DefaultApiUrl = "https://psychopass.animekaizoku.com/"
+const DefaultApiUrl = "https://gban-api-production.up.railway.app/"
